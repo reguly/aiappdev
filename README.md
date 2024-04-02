@@ -1,1 +1,1 @@
-# aiappdev
+# MI alapú alkalmazás-fejlesztés
